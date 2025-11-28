@@ -12,4 +12,4 @@
 6. Nếu bạn muốn sao lưu, hãy copy ngược lại từ thư mục gốc 2 thư mục addons & userdata là được nhé! Khi nào cài thì copy đè ngược lại (nhưng rất dễ làm thừa file gây nặng máy). 
 Chỉ nên sao lưu 3, 4, 5 file và nén lại như mình thôi !!!
 
-	Có thể dùng các link trong Trình quản lý file để Sao chép trên mây các file apk về máy để cập nhật lên bản mới nhất (Trong thư mục nightlies ấy nhé!). Hoặc copy cài luôn file ferraridownload để cài nhiều bản mod hay.
+7. Có thể dùng các link trong Trình quản lý file để Sao chép trên mây các file apk về máy để cập nhật lên bản mới nhất (Trong thư mục nightlies ấy nhé!). Hoặc copy cài luôn file ferraridownload để cài nhiều bản mod hay.
