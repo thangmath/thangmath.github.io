@@ -1,7 +1,7 @@
 Trang lưu sẵn data cấu hình gọn nhẹ của Kodi, có thể nhanh chóng ghi đè mỗi khi cài mới thủ công.
 Cài trực tiếp trên bản chính thức, cập nhật thoải mái.
 Cấu hình cài đặt đã có sẵn các nguồn cài addons thông dụng, rút ngắn thời gian cài đặt.
-Cũng như cung cấp thêm vài addons dùng khá tốt.
+Cũng như cung cấp thêm vài addons dùng khá tốt & cả link các file apk cần thiết để copy trong Kodi
 
 Đây là cách làm giúp Kodi của bạn nhẹ nhất (Vì không cài file thừa vào). Cũng như an toàn khi không cài thêm addons nặng vào.
 Nếu thích, bạn có thể cài rất nhiều addons trong kho. Hoặc nếu lười, có thể ghi đè data có sẵn (trong thư mục data) trong kho của tôi!!!
