@@ -1,23 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?><thang><title>Thăng</title><!--
-
-   Tác giả : Nguyễn Đức Thăng | 0374201353 | Donate 109004940284 Vietinbank.
-
-Trang lưu sẵn data cấu hình gọn nhẹ của Kodi, có thể nhanh chóng ghi đè mỗi khi cài mới thủ công. Cài trực tiếp trên bản chính thức, cập nhật thoải mái. Cấu hình cài đặt đã có sẵn các nguồn cài addons thông dụng, rút ngắn thời gian cài đặt. Cũng như cung cấp thêm vài addons dùng khá tốt & cả link các file apk cần thiết để copy trong Kodi.
-
-Đây là cách làm giúp Kodi của bạn nhẹ nhất (Vì không cài file thừa vào). Cũng như an toàn khi không cài thêm addons nặng vào. Nếu thích, bạn có thể cài rất nhiều addons trong kho. Hoặc nếu lười, có thể ghi đè data có sẵn (trong thư mục data) trong kho của tôi!!!
-
-  1. Công việc của bạn rất đơn giản. Đầu tiên vào trình quản lý file, thêm đường dẫn thư mục gốc của máy ở cột bên phải.
-
-  2. Thêm link https://thangmath.github.io ở cột bên trái. Vào link rồi mở file Android (hoặc file media nếu là TV LG).
-
-  3. Bấm giữ vào thư mục duy nhất trong file ==> Copy (Sao chép) ==> Yes (Có)
-
-  4. Copy xong buộc phải bấm nút home ra ngoài màn hình chính, buộc dừng ứng dụng bằng cách vào cài đặt TV, hoặc giữ chọn ứng dụng,... (hoặc cục súc thì rút điện TV) (Không được thoát ứng dụng bằng nút back. Sẽ làm nhiều file bị bộ nhớ đệm trả lại)
-
-  5. Vậy là giao diện được cài đặt sẵn, đầy đủ link tha hồ cài addons. Giờ cài app Phim4k sẽ xem được luôn nhé :). Vào tiện ích cập nhật Vietnamese... là hết bị cá nhân hoá giao diện nha.
-
-  6. Nếu bạn muốn sao lưu, hãy copy ngược lại từ thư mục gốc 2 thư mục addons và userdata là được nhé! Khi nào cài thì copy đè ngược lại (nhưng rất dễ làm thừa file gây nặng máy). Chỉ nên sao lưu 3, 4, 5 file và nén lại như mình thôi !!!
-
-  7. Có thể dùng các link trong Trình quản lý file để Sao chép trên mây các file apk về máy để cập nhật lên bản mới nhất (Trong thư mục nightlies ấy nhé!). Hoặc copy cài luôn file ferraridownload để cài nhiều bản mod hay.
-
---></thang>
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.thecrew" name="[COLOR orchid]THE CREW REPO[/COLOR]" provider-name="The Crew" version="0.3.8">
+	<extension point="xbmc.addon.repository" name="The Crew" >
+			<dir minversion="18.9.9">
+			<info compressed="false">https://raw.githubusercontent.com/thecrewwh/zips/master/matrix/_zip/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/thecrewwh/zips/master/matrix/_zip/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/thecrewwh/zips/master/matrix/_zip</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://github.com/OldManJax/repository.animaniac/raw/master/addons.xml</info>
+			<checksum>https://github.com/OldManJax/repository.animaniac/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/OldManJax/repository.animaniac/raw/master/</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/</datadir>
+			</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
+		<description lang="en">Many come, Many go. The true and dedicated are here. We here</description>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
