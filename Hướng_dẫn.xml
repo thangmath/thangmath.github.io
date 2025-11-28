@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><thang><title>Thăng</title>
+<?xml version="1.0" encoding="UTF-8"?><thang><title>Thăng</title><!--
 
    Tác giả : Nguyễn Đức Thăng | 0374201353 | Donate 109004940284 Vietinbank.
 
@@ -10,7 +10,7 @@ Trang lưu sẵn data cấu hình gọn nhẹ của Kodi, có thể nhanh chóng
 
   2. Thêm link https://thangmath.github.io ở cột bên trái. Vào link rồi mở file Android (hoặc file media nếu là TV LG).
 
-  3. Bấm giữ vào thư mục duy nhất trong file --> Copy (Sao chép) --> Yes (Có)
+  3. Bấm giữ vào thư mục duy nhất trong file ==> Copy (Sao chép) ==> Yes (Có)
 
   4. Copy xong buộc phải bấm nút home ra ngoài màn hình chính, buộc dừng ứng dụng bằng cách vào cài đặt TV, hoặc giữ chọn ứng dụng,... (hoặc cục súc thì rút điện TV) (Không được thoát ứng dụng bằng nút back. Sẽ làm nhiều file bị bộ nhớ đệm trả lại)
 
@@ -20,4 +20,4 @@ Trang lưu sẵn data cấu hình gọn nhẹ của Kodi, có thể nhanh chóng
 
   7. Có thể dùng các link trong Trình quản lý file để Sao chép trên mây các file apk về máy để cập nhật lên bản mới nhất (Trong thư mục nightlies ấy nhé!). Hoặc copy cài luôn file ferraridownload để cài nhiều bản mod hay.
 
-     </thang>
+--></thang>
