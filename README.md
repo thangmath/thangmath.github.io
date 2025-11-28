@@ -1,4 +1,5 @@
-Trang lưu data backup của Kodi, có thể nhanh chóng ghi đè mỗi khi cài mới thủ công.
+Trang lưu sẵn data cấu hình gọn nhẹ của Kodi, có thể nhanh chóng ghi đè mỗi khi cài mới thủ công.
+Cài trực tiếp trên bản chính thức, cập nhật thoải mái.
 Cấu hình cài đặt đã có sẵn các nguồn cài addons thông dụng, rút ngắn thời gian cài đặt.
 Cũng như cung cấp thêm vài addons dùng khá tốt.
 
