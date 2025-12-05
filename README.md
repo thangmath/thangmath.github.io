@@ -1,5 +1,5 @@
 # Cài cấu hình & tiện ích cho Kodi
-Trang lưu sẵn data cấu hình gọn nhẹ của Kodi, có thể nhanh chóng ghi đè mỗi khi cài mới thủ công. Cài trực tiếp trên bản chính thức, cập nhật thoải mái, hỗ trợ Android & webOS. Đây là cách làm giúp Kodi của bạn nhẹ nhất (Vì không cài file thừa vào). Cũng như an toàn khi không cài thêm addons nặng vào. Công việc của bạn rất đơn giản :
+>Trang lưu sẵn data cấu hình gọn nhẹ của Kodi, có thể nhanh chóng ghi đè mỗi khi cài mới thủ công. Cài trực tiếp trên bản chính thức, cập nhật thoải mái, hỗ trợ Android & webOS. Đây là cách làm giúp Kodi của bạn nhẹ nhất (Vì không cài file thừa vào). Cũng như an toàn khi không cài thêm addons nặng vào. Công việc của bạn rất đơn giản :
 - Đầu tiên vào trình quản lý file, thêm đường dẫn thư mục gốc của máy ở cột bên phải (webOS là /).
 - Thêm link https://thangmath.github.io ở cột bên trái. Vào link rồi mở file "Cài đặt lần đầu.zip".
 - Bấm giữ vào thư mục Android hoặc media (webOS) rồi giữ, copy.
