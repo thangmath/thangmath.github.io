@@ -1,12 +1,162 @@
-<!DOCTYPE html><html lang="vi"><head><meta charset="UTF-8"><title>Thăng</title></head><body><h1>
+<!DOCTYPE html><html lang="vi"><head><meta charset="UTF-8"><title>Nguyễn Đức Thăng © 0374201353</title></head>
+<style>
+body, html {
+  background-color: Gray;
+  color: Cornsilk;
+  font-family: Calibri;
+  font-size: 30px;
+  line-height: 180%;
+}
+button {
+  background-color: DarkRed;
+  color: Azure;
+  font-family: Calibri;
+  font-size: 50px;
+}
+div {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(189px, 1fr));
+  gap: 10px;
+}
+select {
+  background-color: Indigo;
+  color: Ivory;
+  font-size: 50px;
+}
+table, tr, td {
+  border-collapse: collapse;
+  border: 2px solid Indigo;
+  width:100%";
+}
+th, td {
+  padding: 15px;
+{
+</style>
+<script>
+function Sao(nut, Nguon) {
+  var ID_Nguon = document.createElement("input");
+  var TenNut = nut.innerHTML;
+  if (document.getElementById('trang').value == 'mon') {
+    nut.style.backgroundColor = 'MidnightBlue';
+    window.open("monplayer://provider?link=" + Nguon + "&type=provider");
+  } else {
+    ID_Nguon.value = Nguon;
+    document.body.appendChild(ID_Nguon);
+    ID_Nguon.select();
+    document.execCommand("copy");
+    document.body.removeChild(ID_Nguon);
+    nut.style.backgroundColor = 'Olive';
+    nut.innerHTML = 'Đã Sao Chép';
+    setTimeout(() => {
+      nut.innerHTML = TenNut;
+      nut.style.backgroundColor = 'DarkGreen';
+    }, 1500);
+  }
+}
+</script>
+</head>
+<body><center>
 
-Ghi đè vào thư mục gốc <a href="Android.zip">Android.zip</a>
-<br>Ghi đè dành cho TV LG <a href="media.zip">media.zip</a>
+Bạn muốn Sao chép vào SportsTV hay cài cho Monplayer trên điện thoại<br>
+<select id="trang">
+  <option value="mon">Monplayer</option>
+  <option value="sptv">SportsTV</option>
+</select>
+<br>Ô chuyển màu xanh là đã Mở hoặc Sao chép (chỉ hỗ trợ trên điện thoại)<br>
+<div>
+<button onclick="Sao(this, 'https://tctv.pro');">Thập Cẩm TV</button>
+<button onclick="Sao(this, 'https://vbtv.pro');">Về bờ TV</button>
+<button onclick="Sao(this, 'https://script.googleusercontent.com/macros/echo?user_content_key=AehSKLgMUC4aKLs_9MmuKt9cUk0TFCPpOwkKO03W3aG68enU4E_UbAwP7ba7YW_II9bt_NoGyqrdwqfdAgzH4Rgps0jS4nv3a9XaCHjFei1aKwwhPV-T9ycfUlQ6KJ-oI2LtHUVqLv-JBjW8Tm1fZtTJpz74H7Dnuy3LPnOij0Zwj_5QbTP305m_rbXIr8tb775NqB8AjqTjeSYynh2jTdSTn4Ji6j2s3q65ZJf2aZYnYRY9oRlFNbtgWxLVlVd7X0XUihpffAAA36LDou1dsZINvybHXZfDhw7tiBo4_nBh&lib=MGmv-11KZu3-02VJjqS150IL4F6h_ZaZ9');">Thập Cẩm Về Bờ</button>
+<button onclick="Sao(this, 'https://thapcam.otokeok.dpdns.org');">Về Bờ Thập Cẩm</button>
+<button onclick="Sao(this, 'https://iptv.nhadai.org/v1');">FPT Play</button>
+<button onclick="Sao(this, 'https://vtvgo.4share.me');">VTV Go</button>
+<button onclick="Sao(this, 'https://tiny.cc/coocaa');">Coocaa</button>
+<button onclick="Sao(this, 'https://raw.githubusercontent.com/hoiquanclick/hoiquan/refs/heads/main/vip.m3u');">Hội Quán</button>
+<button onclick="Sao(this, 'https://raw.githubusercontent.com/hoiquanclick/hoiquan/refs/heads/main/free.m3u');">Hội Quán Full</button>
+<button onclick="Sao(this, 'https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv');">Kênh TV VMTTV</button>
+<button onclick="Sao(this, 'https://raw.githubusercontent.com/alxstream/playlist/refs/heads/main/sports-4k.m3u');">4K nước ngoài</button>
+<button onclick="Sao(this, 'https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/tv.m3u');">Kênh TV gọn</button>
+<button onclick="Sao(this, 'https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/phim.m3u');">Phim t23-02</button>
+<button onclick="Sao(this, 'https://iptv.cameraddns.net');">Phim THVLi</button>
+<button onclick="Sao(this, 'https://iptv.rophim.dev');">Rổ Phim</button>
+<button onclick="Sao(this, 'https://kk-pvd.moviedb.dev');">KK Phim</button>
+<button onclick="Sao(this, 'https://media.hth4nh.eu.org/kkphim');">KK Phim 2</button>
+<button onclick="Sao(this, 'https://op-pvd.moviedb.dev');">Ổ Phim</button>
+<button onclick="Sao(this, 'https://media.hth4nh.eu.org/ophim');">Ổ Phim 2</button>
+<button onclick="Sao(this, 'https://media.hth4nh.eu.org/nguonc');">Nguồn C</button>
+<button onclick="Sao(this, 'https://iptv.animehay.dev');">ANIME HAY</button>
+<button onclick="Sao(this, 'https://iptv.anime47.net');">ANIME 47</button>
+<button onclick="Sao(this, 'https://media.hth4nh.eu.org/home');">Nhạc</button>
+<button onclick="Sao(this, 'https://thapcam.otokeok.dpdns.org/');">Thể thao tổng hợp</button>
+<button onclick="Sao(this, 'https://hxcv.site/chuoichien');">Chuối Chiên TV</button>
+<button onclick="Sao(this, 'https://hxcv.site/vankhanh');">Văn Khánh TV</button>
+<button onclick="Sao(this, 'https://hxcv.site/vachvoi');">Vạch Vôi TV</button>
+<button onclick="Sao(this, 'https://hxcv.site/luongson');">Lương Sơn TV</button>
+<button onclick="Sao(this, 'https://hxcv.site/buncha');">Bún Chả TV</button>
+<button onclick="Sao(this, 'https://hxcv.site/khandaia');">Khán Đài A</button>
+<button onclick="Sao(this, 'https://hxcv.site/gavang');">Gà Vàng TV</button>
+<button onclick="Sao(this, 'https://hxcv.site/hoadao');">Hoa Đào TV</button>
+<button onclick="Sao(this, 'https://hxcv.site/socolive');">Sô Cô Live</button>
+<button onclick="Sao(this, 'https://kentestvn.x10.mx/xl');">XoiLacZ</button>
+<button onclick="Sao(this, 'https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u');">Bóng đá</button>
+<button onclick="Sao(this, 'https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda2.m3u');">Bóng đá 2</button>
+<button onclick="Sao(this, 'https://ace.ononemoreokaz.workers.dev');">Ace Sport</button>
+<button onclick="Sao(this, 'https://livesport.io.vn/easport');">Live Sport</button>
+<button onclick="Sao(this, 'https://hxcv.site/streamed');">Streamed</button>
+<button onclick="Sao(this, 'https://iptv.nangcucz.link');">Nắng Cực</button>
+<button onclick="Sao(this, 'https://iptv.nangcucz.link/provider/vlxx');">Vlxx</button>
+<button onclick="Sao(this, 'https://media.hth4nh.eu.org/vlxx');">Vlxx dự phòng</button>
+<button onclick="Sao(this, 'https://iptv.nangcucz.link/provider/sextop1');">S Top 1</button>
+<button onclick="Sao(this, 'https://iptv.nangcucz.link/provider/heovl');">Heo Phim</button>
+<button onclick="Sao(this, 'https://iptv.nangcucz.link/provider/sexlive');">S Live</button>
+<button onclick="Sao(this, 'https://media.hth4nh.eu.org/ihentai');">iHentai</button>
+</div><br>
+<b>Hướng dẫn cài cấu hình và addons cho Kodi</b><br>
+<table>
+  <tr>
+    <td>Thêm link vào trình quản lý tập tin cho Kodi ở cột trái</td>
+    <td><a href="http://uukkk.github.io">http://uukkk.github.io</a></td>
+  </tr>
+  <tr>
+    <td>Thêm nguồn vào mở "thư mục gốc thiết bị" ở cột phải<br>
+    Anroid thì chọn trên giao diện, webOS LG thì nhập đường dẫn là /<br>
+    Mở file Cấu_hình_lần_đầu.zip, giữ rồi chọn Sao chép</td>
+    <td><a href="Cấu_hình_lần_đầu.zip">Cấu_hình_lần_đầu.zip</a></td>
+  </tr>
+  <tr>
+    <td>Cài thêm các addons qua file zip dùng nguồn "Anh Thăng"</td>
+    <td>
+      <a href="addons_kodi/">addons_kodi/</a> | 
+      <a href="data_kodi/">data_kodi/</a> | 
+      <a href="repository_kodi/">repository_kodi/</a>
+    </td>
+  </tr>
+</table>
 <br>
-<br>Thư mục tiện ích offline <a href="addons/">addons/</a>
-<br>Thư mục dữ liệu khôi phục lớn<a href="data/">data/</a>
-<br>Thư mục tiện ích online <a href="repository/">repository/</a>
+<b>Link cài ứng dụng nhanh trên Android TV</b>
 <br>
-<br>Kho app mod cho TV Box <a href="wdownloader.apk">wdownloader.apk</a>
-
-</h1></body></html>
+<table>
+  <tr style="border-bottom: groove">
+	<td style="border-bottom: groove">Tải Downloader</td>
+    <td style="border-bottom: groove"><a href="https://tiny.cc/tai">tiny.cc/tai</a> | <a href="https://ttttt.yn.lt">ttttt.yn.lt</a>
+    </td>
+  </tr>
+  <tr style="border-top: groove">
+	<td style="border-top: groove">Thêm vào mục yêu thích cho Downloader</td>
+    <td style="border-top: groove"><a href="https://s.id/uukkk">s.id/uuukk</a> | <a href="https://bom.so/uukkk">bom.so/uukkk</a> | <a href="https://tiny.cc/uukkk">tiny.cc/uukkk</a>
+    </td>
+  </tr>
+  <tr style="border-bottom: groove">
+	<td style="border-bottom: groove">Tải SportsTV</td>
+    <td style="border-bottom: groove"><a href="https://tiny.cc/sptv">tiny.cc/sptv</a> | <a href="https://sssss.yn.lt">sssss.yn.lt</a>
+    </td>
+  </tr>
+  <tr style="border-top: groove">
+	<td style="border-top: groove">⚙️ → Khôi phục danh sách phát → Khôi phục từ URL → </td>
+    <td style="border-top: groove"><a href="https://tiny.cc/spds">tiny.cc/spds</a> (full) | <a href="https://tiny.cc/spds1">tiny.cc/spds1</a> (not 18+)
+    </td>
+  </tr>
+</table>
+<br>Nguyễn Đức Thăng © 0374201353
+</center></body>
+</html>
