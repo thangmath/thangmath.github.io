@@ -16,6 +16,6 @@ Trang lưu sẵn data cấu hình gọn nhẹ của Kodi, có thể nhanh chóng
 - Truy cập trang chủ [thangmath.github.io](https://thangmath.github.io) để copy từng danh sách vào SportsTV hoặc mở với Monplayer.
 > Link tải nhanh SportsTV [sssss.yn.lt](https://sssss.yn.lt) | [tiny.cc/sptv](https://tiny.cc/sptv). Link list [tiny.cc/llll](https://tiny.cc/llll) hoặc [tiny.cc/iiii](https://tiny.cc/iiii) (not 18+)
 - Để cài các ứng dụng cho TV, bạn cần tải trên CH Play ứng dụng web nào đó như TV Bro, Downloader,...
-- Rồi thêm một trong các link sau vào kho yêu thích của Downloader ([ddddd.yn.lt](https://ddddd.yn.lt) | [tiny.cc/tai](https://tiny.cc/tai)) để tải các ứng dụng cần thiết:
-> [tiny.cc/kho](https://tiny.cc/kho), [tiny.cc/kkk](https://tiny.cc/kkk), [kkkkk.yn.lt](https://kkkkk.yn.lt)
+- Rồi thêm một trong các link sau vào kho yêu thích của Downloader [ddddd.yn.lt](https://ddddd.yn.lt) | [tiny.cc/tai](https://tiny.cc/tai) để tải các ứng dụng cần thiết:
+> [tiny.cc/kho](https://tiny.cc/kho) | [tiny.cc/kkk](https://tiny.cc/kkk) | [kkkkk.yn.lt](https://kkkkk.yn.lt)
 ### Tác giả : Nguyễn Đức Thăng | 0374201353 | 109004940284 Vietinbank
