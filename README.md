@@ -17,6 +17,6 @@ Trang lưu sẵn data cấu hình gọn nhẹ của Kodi, có thể nhanh chóng
 - Rồi thêm một trong các link dưới đây vào kho yêu thích của Downloader _(tải bản việt hoá ở [ddddd.yn.lt](https://ddddd.yn.lt) | [tiny.cc/tai](https://tiny.cc/tai))_ để cài các ứng dụng cần thiết, dùng sau này rất tiện :
 > Rút gọn kho lưu trữ [tiny.cc/kho](https://tiny.cc/kho) | [tiny.cc/kkk](https://tiny.cc/kkk) | [kkkkk.yn.lt](https://kkkkk.yn.lt)
 - Link tải nhanh SportsTV [sssss.yn.lt](https://sssss.yn.lt) | [tiny.cc/sptv](https://tiny.cc/sptv)
-- Truy cập trang chủ [thangmath.github.io](https://thangmath.github.io) để copy từng danh sách vào SportsTV hoặc mở với Monplayer.
 > Link list [tiny.cc/llll](https://tiny.cc/llll) hoặc [tiny.cc/iiii](https://tiny.cc/iiii) (not 18+)
+> Truy cập trang chủ [thangmath.github.io](https://thangmath.github.io) để copy từng danh sách vào SportsTV hoặc mở với Monplayer.
 ### Tác giả : Nguyễn Đức Thăng | 0374201353 | 109004940284 Vietinbank
