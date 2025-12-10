@@ -5,16 +5,16 @@
 <style>
 body, html {
   margin-top: 0.5%;
-  background-color: #222;
+  background-color: #111;
   color: MintCream;
   font-family: Calibri;
   line-height:150%;
   font-size: 1em;
 }
 a, select {
-  background-color: #444;
+  background-color: #222;
   color: DarkTurquoise;
-  padding: 7px;
+  padding: 3px;
   text-decoration: none;
   border-radius: 4px;
   border: 1px solid DimGrey;
@@ -35,9 +35,8 @@ p {
   color: DarkOrange;
 }
 div > a {
-  background-color: #222;
   color: MintCream;
-  height: 270px;
+  height: 240px;
   padding-top: 15px;
   border-radius: 10px;
   font-size: 0.85em;
@@ -47,7 +46,7 @@ div > a {
 div > a > p, select {
   color: LightBlue;
   white-space: nowrap;
-  margin: 20px 0px;
+  margin: 25px 0px;
   font-size: 2em;
 }
 img {
@@ -78,16 +77,18 @@ function Sao(nut, Nguon) {
     document.execCommand("copy");
     document.body.removeChild(ID_Nguon);
     nut.style.backgroundColor = 'Olive';
-    nut.innerHTML = 'Đã Sao Chép';
+	nut.style.fontSize = '4em';
+    nut.innerHTML = 'Đã sao chép liên kết';
     setTimeout(() => {
       nut.innerHTML = TenNut;
       nut.style.backgroundColor = 'DarkGreen';
+	  nut.style.fontSize = '0.85em';
     }, 1500);
   }
 }
 </script>
 <body><center>
-<p>Tổng hợp playlist cho MonPlayer và SportsTV <i>(Full list cuối trang)</i></p>
+<p style="margin: 0">Tổng hợp playlist cho MonPlayer và SportsTV <i>(Full list cuối trang)</i></p>
 <select id="trang">
   <option value="mon">Chọn ứng dụng: MonPlayer</option>
   <option value="sptv">Sao chép link: SportsTV</option>
