@@ -13,7 +13,7 @@ body, html {
   font-size: 1em;
 }
 a, select {
-  background-color: #222;
+  background-color: #333;
   color: DarkTurquoise;
   padding: 3px;
   white-space: nowrap;
@@ -28,33 +28,32 @@ a:hover, select:hover {
 div {
   text-align: center;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
   gap: 8px;
 }
 p {
   margin-left: 1%;
-  font-size: 1.3em;
   font-weight: bold;
   color: DarkOrange;
 }
 div > a {
   color: MintCream;
-  height: 240px;
-  padding-top: 15px;
+  height: 125px;
+  padding-top: 5px;
   border-radius: 10px;
-  font-size: 0.85em;
+  font-size: 0.6em;
   line-height:110%;
   border: none;
 }
 div > a > p, select {
   color: LightBlue;
-  margin: 25px 0px;
-  font-size: 2em;
+  margin: 15px 0px;
+  font-size: 1.5em;
 }
 img {
   border-radius: 10px;
-  height: 180px;
-  width: 180px;
+  height: 90px;
+  width: 90px;
 }
 p > a > img {
   height: 50px;
@@ -93,7 +92,7 @@ function Sao(nut, Nguon) {
   }
 }
 </script>
-<body>
+<body oncontextmenu="return false;">
 <p>1. Tổng hợp playlist cho MonPlayer và SportsTV <i>(Full list cuối trang)</i></p>
 <center><select id="trang" style = "margin-top: 0">
   <option value="mon">Chọn ứng dụng: MonPlayer</option>
@@ -151,7 +150,7 @@ function Sao(nut, Nguon) {
 2. Kho truyện tranh (MonPlayer Mobile)
 <a href="https://monplayer.org/share?link=https%3A%2F%2Fht.khotruyen.link&type=provider"><img src="https://hangtruyen.co/images/favicon.png"> Hang Truyện</a>
 <a href="https://monplayer.org/share?link=https%3A%2F%2Fotruyen-iptv.khotruyen.link&type=provider"><img src="https://otruyen-iptv.khotruyen.link/logo.png"> Ổ Truyện</a>
-<a href="https://monplayer.org/share?link=https%3A%2F%2Ftruyenx.link%2Ftruyensextv&type=provider&save-history=false&save-search-histor=false&save-wishlist=false"><img src="https://truyenx.link/images/truyensextv.png"> Truyện S TV</a>
+<a href="https://monplayer.org/share?link=https%3A%2F%2Ftruyenx.link%2Ftruyensextv&type=provider&save-history=false&save-search-histor=false&save-wishlist=false"><img src="https://truyenx.link/images/truyensextv.png">Truyện S TV</a>
 <a href="https://monplayer.org/share?link=https%3A%2F%2Ftruyenx.link%2Fsayhentai&type=provider&save-history=false&save-search-histor=false&save-wishlist=false"><img src="https://truyenx.link/images/sayhentai.png"> Truyện S Hentai</a>
 <a href="https://monplayer.org/share?link=https%3A%2F%2Fmg18fx.truyenx.link&type=provider&save-history=false&save-search-histor=false&save-wishlist=false"><img src="https://mg18fx.truyenx.link/logo.png"> Truyện Manga 18</a>
 </p>
