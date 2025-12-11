@@ -57,16 +57,16 @@
 
 {
 "name": "Hội Quán JSON",
-"url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/refs/heads/main/vip.m3u",
-"logo": "https://thangmath.github.io/sptv/hqv.png"
+"url": "https://iptv.cameraddns.net/tv",
+"logo": "https://iptv.cameraddns.net/tv/logo-tv.png"
 },
 
 
 
 {
-"name": "Hội Quán",
-"url": "https://iptv.cameraddns.net/tv",
-"logo": "https://iptv.cameraddns.net/tv/logo-tv.png"
+"name": "Hội Quán VIP",
+"url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/refs/heads/main/vip.m3u",
+"logo": "https://thangmath.github.io/sptv/hqv.png"
 },
 
 
@@ -289,8 +289,8 @@
 
 {
 "name": "Bóng đá JSON",
-"url": "http://iptv.chjbi.net",
-"logo": "http://iptv.chjbi.net/images/logo.png"
+"url": "https://iptv.cameraddns.net/sport",
+"logo": "https://iptv.cameraddns.net/sport/logo-sport.png"
 },
 
 
