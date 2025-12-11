@@ -56,25 +56,9 @@
 
 
 {
-"name": "Hội Quán JSON",
-"url": "https://iptv.cameraddns.net/tv",
-"logo": "https://iptv.cameraddns.net/tv/logo-tv.png"
-},
-
-
-
-{
 "name": "Hội Quán VIP",
 "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/refs/heads/main/vip.m3u",
 "logo": "https://thangmath.github.io/sptv/hqv.png"
-},
-
-
-
-{
-"name": "Hội Quán Full",
-"url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/refs/heads/main/free.m3u",
-"logo": "https://thangmath.github.io/sptv/hqf.png"
 },
 
 
@@ -115,14 +99,6 @@
 "name": "Phim THVLi",
 "url": "https://iptv.cameraddns.net",
 "logo": "https://www.thvli.vn/static/media/logo.png"
-},
-
-
-
-{
-"name": "Rổ Phim",
-"url": "https://iptv.rophim.dev",
-"logo": "https://rophim.me/images/favicon.png"
 },
 
 
