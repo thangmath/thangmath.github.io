@@ -6,7 +6,8 @@
 {"name": "FPT Play", "url": "https://iptv.nhadai.org/v1", "logo": "https://iptv.nhadai.org/logo.png"},
 {"name": "VTV Go", "url": "https://vtvgo.4share.me", "logo": "https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png"},
 {"name": "Zal TV", "url": "https://zaltv.cf/xem/tv", "logo": "https://zaltv.com/logo.png"},
-{"name": "Hội Quán JSON", "url": "https://iptv.cameraddns.net/tv", "logo": "https://iptv.cameraddns.net/tv/logo-tv.png"},
+{"name": "Hội Quán JSON", "url": "https://toiyeuvietnam.dpdns.org/MON/", "logo": "https://toiyeuvietnam.dpdns.org/HoiQuan_Mini.png"},
+{"name": "Hội Quán JSON 2", "url": "https://iptv.cameraddns.net/tv", "logo": "https://iptv.cameraddns.net/tv/logo-tv.png"},
 {"name": "Hội Quán VIP", "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/refs/heads/main/vip.m3u", "logo": "https://thangmath.github.io/sptv/hqv.png"},
 {"name": "Kênh TV VMTTV", "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv", "logo": "https://thangmath.github.io/sptv/vmttv.png"},
 {"name": "4K Sports", "url": "https://raw.githubusercontent.com/alxstream/playlist/refs/heads/main/sports-4k.m3u", "logo": "https://thangmath.github.io/sptv/4k.png"},
@@ -44,5 +45,5 @@
 {"name": "Sex Top 1", "url": "https://iptv.nangcucz.link/provider/sextop1", "logo": "https://iptv.nangcucz.link/images/sextop1.png"},
 {"name": "Heo Phim", "url": "https://iptv.nangcucz.link/provider/heovl", "logo": "https://iptv.nangcucz.link/images/heovl.png"},
 {"name": "Sex Live", "url": "https://iptv.nangcucz.link/provider/sexlive", "logo": "https://iptv.nangcucz.link/images/sexlive.png"},
-{"name": "iHentai", "url": "https://media.hth4nh.eu.org/ihentai", "logo": "https://media.hth4nh.eu.org/static/img/logo-ihentai-2.png"}
+{"name": "iHentai", "url": "https://media.hth4nh.eu.org/ihentai", "logo": "https://media.hth4nh.eu.org/static/img/logo-ihentai-2.png"},
 ]
