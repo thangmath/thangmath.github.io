@@ -14,7 +14,7 @@
 {"name": "Kênh TV gọn", "url": "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/tv.m3u", "logo": "https://thangmath.github.io/sptv/tv23.png"},
 {"name": "Phim t23-02", "url": "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/phim.m3u", "logo": "https://thangmath.github.io/sptv/tv23.png"},
 {"name": "Phim THVLi", "url": "https://iptv.cameraddns.net", "logo": "https://www.thvli.vn/static/media/logo.png"},
-{"name": "Rổ Phim", "url": "https://iptv.rophim.dev", "logo": "https://rophim.me/images/favicon.png"},
+{"name": "Rổ Phim", "url": "https://iptv.rophim.dev", "logo": "https://thangmath.github.io/img/rophim.png"},
 {"name": "KK Phim", "url": "https://kk-pvd.moviedb.dev", "logo": "https://kk-pvd.moviedb.dev/logo.png"},
 {"name": "KK Phim 2", "url": "https://media.hth4nh.eu.org/kkphim", "logo": "https://media.hth4nh.eu.org/static/img/logo-kk-2.png"},
 {"name": "Ổ Phim", "url": "https://op-pvd.moviedb.dev", "logo": "https://op-pvd.moviedb.dev/logo.png"},
