@@ -4,13 +4,13 @@
         "status": 1,
         "version": 13,
         "name": "Eporner 4K",
-        "internalName": "Eporner 4K",
+        "internalName": "Eporner 4K châu á",
         "authors": [
-            "HindiProvider, megix"
+            "Nguyễn Đức Thăng 0374201353"
         ],
-        "description": "Eporner 4K",
+        "description": "Eporner 4K danh mục châu á xem cho ngon",
         "repositoryUrl": "https://github.com/thangmath",
-        "language": "en",
+        "language": "vi",
         "tvTypes": [
             "NSFW"
         ],
