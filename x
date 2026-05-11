@@ -1,5 +1,4 @@
 {
-    "name": "Thăng 4K",
     "description": "Eporner 4K châu á",
     "manifestVersion": 1,
     "pluginLists": [
