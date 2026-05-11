@@ -16,5 +16,23 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/eporner.ico",
         "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/thangmath/thangmath.github.io/_/cs3/Eporner_1080.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "Eporner FHD Asia",
+        "internalName": "Eporner châu á",
+        "authors": [
+            "Nguyễn Đức Thăng 0374201353"
+        ],
+        "description": "Eporner 1080p danh mục châu á xem cho ngon",
+        "repositoryUrl": "https://github.com/thangmath",
+        "language": "vi",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/eporner.ico",
+        "apiVersion": 1
     }
 ]
