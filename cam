@@ -2,7 +2,7 @@
 #PLAYLIST:Camera bà Chiên
 
 #EXTINF:-1 tvg-logo="https://thangmath.github.io/img/m3u/ba.png",Bà
-rtsp://admin:Huethang@192.168.1.88:554
+rtsp://admin:Huethang@192.168.1.88:554/streaming/channels/101
 
 #EXTINF:-1 tvg-logo="https://thangmath.github.io/img/m3u/cong.png",Cổng
 rtsp://admin:Huethang@192.168.1.99:554/streaming/channels/201
